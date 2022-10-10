@@ -9,22 +9,22 @@
 
 - [x] OpenVPN https://tryhackme.com/room/openvpn                                                                [👍]
 - [x] Welcome https://tryhackme.com/jr/welcome                                                                  [👍]
-- [x] Intro to Researching https://tryhackme.com/room/introtoresearch                                           [👍]
-- [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology                                       [👍]
-- [x] Learn Linux https://tryhackme.com/module/linux-fundamentals                                               [👍]
+- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch                                           [👍]
+- [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology                                       [👍]
+- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals                                               [👍]
 - [ ] Network introduction https://tryhackme.com/room/introtonetworking                                         [⏳]
 
 **Introductory CTFs to get your feet wet**
 
-- [x] Google Dorking https://tryhackme.com/room/googledorking                                                   [👍]
-- [x] OHsint https://tryhackme.com/room/ohsint                                                                  [👍]
-- [x] Shodan.io https://tryhackme.com/room/shodan                                                               [👍]
+- [ ] Google Dorking https://tryhackme.com/room/googledorking                                                   [👍]
+- [ ] OHsint https://tryhackme.com/room/ohsint                                                                  [👍]
+- [ ] Shodan.io https://tryhackme.com/room/shodan                                                               [👍]
 
 # Level 2 - Tooling
-- [x] Tmux https://tryhackme.com/room/rptmux                                                                    [👍]
+- [ ] Tmux https://tryhackme.com/room/rptmux                                                                    [👍]
 - [ ] Nmap https://tryhackme.com/room/furthernmap                                                               [⏳]
-- [x] Web Scanning https://tryhackme.com/room/rpwebscanning                                                     [🔒]
-- [x] Sublist3r https://tryhackme.com/room/rpsublist3r                                                          [🔒]
+- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning                                                     [🔒]
+- [ ] Sublist3r https://tryhackme.com/room/rpsublist3r                                                          [🔒]
 - [ ] Metasploit https://tryhackme.com/room/rpmetasploit                                                        [⏳]
 - [ ] Hydra https://tryhackme.com/room/hydra
 - [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
