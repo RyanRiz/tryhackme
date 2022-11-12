@@ -10,7 +10,7 @@
 - [x] OpenVPN https://tryhackme.com/room/openvpn                                                                [👍]
 - [x] Welcome https://tryhackme.com/jr/welcome                                                                  [👍]
 - [x] Intro to Researching https://tryhackme.com/room/introtoresearch                                           [👍]
-- [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology                                       [👍]
+- [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology                                       [👍]
 - [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals                                               [👍]
 - [ ] Network introduction https://tryhackme.com/room/introtonetworking                                         [⏳]
 
